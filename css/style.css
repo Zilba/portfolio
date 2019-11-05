@@ -1,0 +1,41 @@
+body,
+
+.police-sympa{ 
+    font-family: 'Jomolhari', serif;
+}
+h1{font-size: 50px}
+h2{font-size: 30px}
+h3{font-size: 30px}
+p{font-size: 20px}
+b{font-size: 20px}
+ul{font-size: 30px}
+
+
+body{
+	  background-image: url(images/2.jpg);
+  background-size:cover;
+	
+
+}
+
+#conteneur
+{
+	display: flex;
+	justify-content: space-around;
+	
+}
+h1{
+color: #C71585;
+line-height:30px;
+}
+p{
+  line-height:20px;
+  color: #F4A460 ;
+}
+h2{
+
+line-height:30px;
+}
+b{
+color: #F4A460 ;
+}
